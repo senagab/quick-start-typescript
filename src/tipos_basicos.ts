@@ -25,7 +25,7 @@ let idadeDaAna: number | string = 25
 idadeDaAna = '25 anos'
 
 const dadosDaApi: any;
-dadosDaApi = 10
-dadosDaApi = true
-dadosDaApi = [1,2,3]
-dadosDaApi = 'string'
+// dadosDaApi = 10
+// dadosDaApi = true
+// dadosDaApi = [1,2,3]
+// dadosDaApi = 'string'
