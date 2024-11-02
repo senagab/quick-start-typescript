@@ -24,8 +24,8 @@ const lista: [nome: string, estaEstudando: boolean, idade: number] = ['gabriel',
 let idadeDaAna: number | string = 25
 idadeDaAna = '25 anos'
 
-const dadosDaApi: any;
-// dadosDaApi = 10
-// dadosDaApi = true
-// dadosDaApi = [1,2,3]
-// dadosDaApi = 'string'
+let dadosDaApi: any;
+dadosDaApi = 10
+dadosDaApi = true
+dadosDaApi = [1,2,3]
+dadosDaApi = 'string'
