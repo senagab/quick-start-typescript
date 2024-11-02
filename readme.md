@@ -1,4 +1,4 @@
-<h1 align="center">ES6 + Babel</h1>
+<h1 align="center">Typescript</h1>
 
 <p align=center>
     <img src="" alt="">
