@@ -1,7 +1,7 @@
 <h1 align="center">TypeScript</h1>
 
 <p align=center>
-    <img src="https://img.shields.io/badge/typescript-v5.6.3-green" alt="typescript">
+    <img src="https://img.shields.io/badge/typescript-v5.6.3-blue?logo=typescript&labelColor=white" alt="typescript">
     </img> 
 </p>
 
