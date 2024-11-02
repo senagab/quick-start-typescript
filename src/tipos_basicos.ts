@@ -6,6 +6,7 @@ let idade : number = 27
 
 let altura: number = 1.75
 
+// tipagem explicita
 const nacionalidade: string = 'brasileira'
 
 // array de string
@@ -29,3 +30,6 @@ dadosDaApi = 10
 dadosDaApi = true
 dadosDaApi = [1,2,3]
 dadosDaApi = 'string'
+
+// tipagem implicita
+let curso = 'front-end'
