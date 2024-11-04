@@ -23,3 +23,10 @@ npx tsc --init
 ```
 npx tsc
 ```
+
+
+## <sup>Compiler Watcher</sup>
+
+```
+npx tsc --watch
+```
