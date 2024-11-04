@@ -3,6 +3,7 @@ let estaChovendo = false;
 estaChovendo = true;
 let idade = 27;
 let altura = 1.75;
+// tipagem explicita
 const nacionalidade = 'brasileira';
 // array de string
 const colegas = ['lucas', 'fernanda'];
@@ -14,8 +15,10 @@ const lista = ['gabriel', true, 12];
 // variavel de com operador logico "or"
 let idadeDaAna = 25;
 idadeDaAna = '25 anos';
-const dadosDaApi;
-// dadosDaApi = 10
-// dadosDaApi = true
-// dadosDaApi = [1,2,3]
-// dadosDaApi = 'string'
+let dadosDaApi;
+dadosDaApi = 10;
+dadosDaApi = true;
+dadosDaApi = [1, 2, 3];
+dadosDaApi = 'string';
+// tipagem implicita
+let curso = 'front-end';
